@@ -1,0 +1,54 @@
+body {
+	color: blue;
+}
+.mycenter {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+	text-align: center;
+}
+.mysidemenu {
+	/*background-color: black;*/
+	background-color:#f5f5ef;
+	color:white;
+	line-height: 2.4;
+}
+.focus:hover{
+
+	/*background-color:#808080;*/
+	font-size: 26px;
+
+}
+th{
+	font-size:28px;
+}
+.myimg {
+    float: right;
+    margin: 10px 10px 10px 10px;
+}
+.myfooter{
+	text-align:right;
+	font-size:14px;
+	font-style:italic;
+}
+.panelcontent{
+	margin-top:10px;
+	 text-align: justify;
+}
+.myrightside{
+	background-color:#f5f5ef;
+	
+}
+.myborder{
+		margin-top:10px;
+	 border-radius: 30px;
+    border: 1px solid;  /*#00004d;*/
+    padding: 20px;
+}
+.myhide{
+	display:none;
+}
+.mypanelpic{
+	width: 35px;
+	height :35px;
+}

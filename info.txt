@@ -1,0 +1,4 @@
+-minst 10 sidor
+-have 3 js functions , to all 10 pages or parts o pages
+
+for vg bootstrap css från grunden.//
